@@ -1,9 +1,9 @@
-﻿-- phpMyAdmin SQL Dump
+-- phpMyAdmin SQL Dump
 -- version 4.9.0.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 06-Fev-2020 às 21:01
+-- Tempo de geração: 08-Fev-2020 às 16:46
 -- Versão do servidor: 10.3.15-MariaDB
 -- versão do PHP: 7.3.6
 
